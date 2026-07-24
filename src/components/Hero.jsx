@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="hero-copy">
           <div className="status-pill"><span className="status-dot" /> Currently working as a Full Stack Developer</div>
           <p className="eyebrow">Full Stack Developer <span>/</span> problem solver</p>
-          <h1 className="hero-title">Web Developer & Problem Solver <em>Solver.</em></h1>
+          <h1 className="hero-title">Web Developer & Problem <em>Solver.</em></h1>
           <p className="hero-subtitle">
             I&apos;m Rohit Kumar Verma, a Full Stack Developer focused on building secure, responsive, and scalable web applications with React, Node.js, Express.js, and MongoDB.
           </p>
