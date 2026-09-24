@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <nav className={`topnav ${scrolled ? 'topnav-scrolled' : ''}`}>
       <div className="container nav-inner">
-        <a href="#hero" className="brand"><span className="brand-mark">P</span><span className="brand-name">Portfolio</span></a>
+        <a href="#hero" className="brand"><span className="brand-mark">P</span><span className="brand-name">Rohit Kumar Verma</span></a>
         <div className="desktop-nav">
           {navLinks.map((link) => (
             <a key={link.name} href={link.href} className="nav-link">{link.name}</a>
